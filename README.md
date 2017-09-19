@@ -1,9 +1,9 @@
 # README
 
 Please note that we moved our largest projects involving several subprojects to their own Github organisations:
-* SANSA: https://github.com/SANSA-Stack 
-* AskNow: https://github.com/AskNowQA
-* LITMUS Benchmarking Suite: https://github.com/LITMUS-Benchmark-Suite
+* **SANSA**: https://github.com/SANSA-Stack 
+* **AskNow**: https://github.com/AskNowQA
+* **LITMUS** Benchmarking Suite: https://github.com/LITMUS-Benchmark-Suite
 
 SDA is/was also involved in the following funded projects:
 * Big Data Europe: https://github.com/big-data-europe
