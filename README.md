@@ -3,6 +3,7 @@
 Please note that we moved our largest projects involving several subprojects to their own Github organisations:
 * **SANSA**: https://github.com/SANSA-Stack 
 * **AskNow**: https://github.com/AskNowQA
+* **DBpedia**: https://github.com/dbpedia
 * **LITMUS** Benchmarking Suite: https://github.com/LITMUS-Benchmark-Suite
 * **METArchive**: https://github.com/METArchive
 
