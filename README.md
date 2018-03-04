@@ -1,4 +1,4 @@
-# README
+# README  [![Twitter](https://img.shields.io/twitter/follow/SDA_Research.svg?style=social)](https://twitter.com/SDA_Research)
 
 Please note that we moved our largest projects involving several subprojects to their own Github organisations:
 * **SANSA**: https://github.com/SANSA-Stack 
