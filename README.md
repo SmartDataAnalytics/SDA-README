@@ -5,6 +5,7 @@ Please note that we moved our largest projects involving several subprojects to 
 * **AskNow**: https://github.com/AskNowQA
 * **DBpedia**: https://github.com/dbpedia
 * **LITMUS** Benchmarking Suite: https://github.com/LITMUS-Benchmark-Suite
+* **DeFacto**: https://github.com/DeFacto
 * **METArchive**: https://github.com/METArchive
 
 SDA is/was also involved in the following funded projects:
