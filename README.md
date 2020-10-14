@@ -7,6 +7,7 @@ Please note that we moved our largest projects involving several subprojects to 
 * **LITMUS** Benchmarking Suite: https://github.com/LITMUS-Benchmark-Suite
 * **DeFacto**: https://github.com/DeFacto
 * **METArchive**: https://github.com/METArchive
+* **PyKEEN**: https://github.com/pykeen/pykeen
 
 SDA is/was also involved in the following funded projects:
 * Big Data Europe: https://github.com/big-data-europe
